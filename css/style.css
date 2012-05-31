@@ -1,0 +1,76 @@
+#PicasaDonate, #PicasaSettings {
+  float: left;
+}
+
+#wpPicasaPerexForm {
+
+}
+
+#wpPicasaPerexForm img {
+	float: left;
+}
+
+#wpPicasaPerexForm .info {
+	float: left;
+}
+
+#PicasaSettings {
+  width: 530px;
+}
+
+#PicasaDonate {
+  width: 280px;
+}
+
+p.submit img.AjaxLoader {
+  display:none;
+}
+	
+.row {
+  margin-left: 3px;
+}
+
+.PicasaAlbums, .PicasaPhotos {
+  float: left;
+  margin: 5px;
+}
+
+.PicasaAlbums img, .PicasaPhotos img {
+  border: 4px solid silver;  
+}
+
+.PicasaAlbums p, .PicasaAlbums h5, .PicasaPhotos p, .PicasaPhotos h5 {
+  width: 144px;
+  margin: 0;
+  padding: 0;
+}
+
+.PicasaAlbums h5, .PicasaPhotos h5 {
+  margin: 2px 0px 3px 0px;
+}
+
+.PicasaAlbums p, .PicasaPhotos p {
+  font-size: 0.85em;
+}
+
+#PicasaNavigation {
+  padding-top: 5px;	
+}
+
+#PicasaNavigation a {
+  display: block;
+  float: left;
+  background-color: #F9F9F9;
+  border: 1px solid #DFDFDF;
+  padding: 5px 5px;
+  text-decoration: none;
+  margin-left: 8px;	
+}
+
+.clear {
+  clear: both;
+  height: 0px;
+  line-height:0px;
+  font-size:0px;
+  overflow: hidden;
+}
